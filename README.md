@@ -35,10 +35,20 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
 
 ### 💼 Experiência Profissional
 
-* **Instrutor de Hardware e Programação** – *Nome da Escola 1* (2014 - Atual)
-* **Instrutor de Tecnologia** – *Nome da Escola 2* (Período)
-* **Professor de Informática/Robótica** – *Nome da Escola 3* (Período)
+* **Instrutor de Informática/Montagem e Configuração** – *Escola Informatize* (2014 - 2015)
+  * Instrutor de cursos de informática fundamental (Windows, Word, Excel, PowerPoint), montagem e manutenção de Computadores.
+  * Responsável pela administração do servidor local com Windows Server 2003, suporte e treinamento aos colaboradores,
+  *  manutenção preventiva e corretiva dos computadores da escola.
 
+* **Instrutor de Tecnologia e Robótica** – *Nome da Escola 2* (Período)
+  * Desenvolvimento de projetos práticos com **Arduino**, sensores e atuadores utilizando linguagem C/C++.
+  * Introdução ao pensamento computacional e eletrônica básica para resolução de problemas.
+
+* **Professor de Informática e Desenvolvimento** – *Nome da Escola 3* (Período)
+  * Treinamento em linguagens de programação (C# e tecnologias Web) e banco de dados.
+  * Orientação de projetos acadêmicos focados em código limpo e eficiência sistêmica.
+
+---
 ### 📊 Estatísticas
 
 <p align="left">
