@@ -3,7 +3,7 @@
 
 Este repositório foi criado para através dele compartilhar projetos desenvolvidos, projetos que foram gerados através de cursos, aulas, e aprendizado. 
 Obrigado pela sua visita, abaixo estão alguns links, sinta-se a vontade para explorar e também se quiser me seguir seja bem vindo ;) 
-
+* **Segue abaixo alguns perfis e também linguagens que já trabalhei ou tive contato**
 <p align="left">
   <a href="https://www.linkedin.com/in/dnilsantos23" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -15,9 +15,6 @@ Obrigado pela sua visita, abaixo estão alguns links, sinta-se a vontade para ex
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
-  
-* **Segue abaixo alguns perfis e também linguagens que já trabalhei ou tive contato**
-
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -36,36 +33,3 @@ Obrigado pela sua visita, abaixo estão alguns links, sinta-se a vontade para ex
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
-
-### 💼 Experiência Profissional
-
-* **Instrutor de Informática/Montagem e Configuração** – *Escola Informatize* (20/10/2014 - 03/12/2015)
-  * Instrutor de cursos de informática fundamental (Windows, Word, Excel, PowerPoint), montagem e manutenção de Computadores.
-  * Responsável pela administração do servidor local com Windows Server 2003, suporte e treinamento aos colaboradores,
-  *  manutenção preventiva e corretiva dos computadores da escola.
-
-* **Instrutor de cursos de desenvolvimento de jogos** – *HappyCode São Leopoldo* (12/11/2019 - 05/11/2020)
-  * Desenvolvimento de jogos com **Java e JavaScript**.
-  * Programação dentro do **Roblox Studio**.
-  * Programação dentro do **Minecraft**.
-  * Programação orientada a eventos com **Alice 3**.
-  * Modelagem com **Blender**.
-
-* **Instrutor de cursos de informática fundamental** – *Escola Atitude* (04/04/2019 - 10/11/2019)
-  * Ensino de conceitos fundamentais relacionados a informática fundamental(Windows, Word, Excel, PowerPoint).
-
-* **Instrutor de cursos de desenvolvimento de jogos** – *HappyCode São Leopoldo* (23/06/2025 - 19/12/2025)
-  * **Robótica com Arduino**, sensores e atuadores utilizando linguagem *C/C++*.
-  * Lógica e Algoritmos em **Python**.
-  * Desenvolvimento de jogos utilzando **Python e Panda3D**.
-  * Desenvolvimento de aplicativos com **Python e KivyMD**.
-  * Desenvolvimento de games 2D avançado com **Unity e C#**.
-  * Desenvolvimento de Jogos com **Construct 3**
----
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnilsantos23&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnilsantos23&layout=compact&theme=tokyonight&custom_title=Tecnologias" alt="Tecnologias mais usadas" />
-</p>
