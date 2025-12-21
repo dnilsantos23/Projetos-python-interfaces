@@ -3,10 +3,10 @@
 
 Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Ribeirão Preto, no formato EAD. Venho buscando conhecimentos relacionados a tecnologia, com ênfase em Programação desde 2010. Possuo experiência como instrutor de hardware e programação desde 2014, e tamém desenvolvi a habilidade de traduzir conceitos complexos em soluções práticas. Atualmente focado em Java/Python e na criação de código limpo e eficiente.
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.linkedin.com/in/dnilsantos/">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="[Linkedin](https://www.linkedin.com/in/dnilsantos/)" 
+            title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
