@@ -7,7 +7,7 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
         <img 
             alt="[Linkedin](https://www.linkedin.com/in/dnilsantos/)" 
             title="Linkedin" 
-            src="[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO)"
+            src="[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnilsantos)"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
