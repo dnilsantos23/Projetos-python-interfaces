@@ -1,32 +1,60 @@
 import tkinter as tk
 from tkinter import ttk
 import tkinter.messagebox as messagebox
-janela = tk.Tk() # cria a janela
 
-def escolha_carreira():  
-   
-   # Mostrar os dados selecionados no console
-   print("Você escolheu:")
-   if var1.get() == 1:
-      print("Gerencial")
-   if var2.get() == 1:
-      print("Técnica")
-   if var1.get() == 0 and var2.get() == 0:
-      print("Nenhuma opção selecionada")
+janela = tk.Tk()
+janela.title("Checkbox Exemplo")
+janela.geometry("400x280")
 
-   # Mostra os dados selecionados na tela
-   messagebox.showinfo("Escolha de Carreira", "Você escolheu:\n" + 
-      ("Gerencial\n" if var1.get() == 1 else "") +
-      ("Técnica\n" if var2.get() == 1 else "") +
-      ("Nenhuma opção selecionada" if var1.get() == 0 and var2.get() == 0 else "")) 
+def escolha_carreira():
+    escolha = []
 
-ttk.Label(janela, text="Escolha sua vocação:").grid(row=0, sticky=tk.W)
+    if var1.get():
+        escolha.append("Gerencial")
+    if var2.get():
+        escolha.append("Técnica")
+
+    if not escolha:
+        escolha.append("Nenhuma opção selecionada")
+
+    messagebox.showinfo(
+        "Escolha de Carreira",
+        "Você escolheu:\n" + "\n".join(escolha)
+    )
+
+# Configuração da coluna
+janela.columnconfigure(0, weight=1)
+
+ttk.Label(
+    janela,
+    text="Escolha sua vocação:",
+    font=("Arial", 12)
+).grid(row=0, column=0, sticky=tk.S, padx=10, pady=20)
+
 var1 = tk.IntVar()
-ttk.Checkbutton(janela, text="Gerencial", variable=var1).grid(row=1, sticky=tk.W)
-var2 = tk.IntVar()
-ttk.Checkbutton(janela, text="Técnica", variable=var2).grid(row=2, sticky=tk.W) 
-ttk.Button(janela, text='Sair', command=janela.quit).grid(row=3, sticky=tk.W, pady=4) # Adiciona o botão para sair
-ttk.Button(janela, text='Mostrar', command=escolha_carreira).grid(row=4, sticky=tk.W, pady=4) # Adiciona o botão para mostrar os dados
+ttk.Checkbutton(
+    janela,
+    text="Gerencial",
+    variable=var1
+).grid(row=1, column=0, sticky=tk.S, padx=10, pady=5)
 
+var2 = tk.IntVar()
+ttk.Checkbutton(
+    janela,
+    text="Técnica",
+    variable=var2
+).grid(row=2, column=0, sticky=tk.S, padx=10, pady=5)
+
+ttk.Button(
+    janela,
+    text='Mostrar',
+    command=escolha_carreira
+).grid(row=3, column=0, sticky=tk.S, padx=10, pady=(10, 5))
+
+ttk.Button(
+    janela,
+    text='Sair',
+    command=janela.quit
+).grid(row=4, column=0, sticky=tk.S, padx=10, pady=5)
 
 janela.mainloop()
