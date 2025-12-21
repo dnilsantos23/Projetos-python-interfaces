@@ -139,7 +139,14 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
 ### 📊 Estatísticas
 
   <br><br> 
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnilsantos23&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de dnilsantos23" />
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=dnilsantos23&layout=compact&theme=tokyonight&custom_title=Tecnologias" alt="Tecnologias mais usadas por dnilsantos23" />
+<img 
+          height="180em" 
+          src="https://github-readme-stats.vercel.app/api?username=dnilsantos23&show_icons=true&theme=tokyonight" 
+          alt="Estatísticas do GitHub de dnilsantos23" 
+      />
+     <img 
+         height="180em" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/username=dnilsantos23&layout=compact&theme=tokyonight&custom_title=Tecnologias" 
+         alt="Tecnologias mais usadas por dnilsantos23" 
+      />
 
-</div>
