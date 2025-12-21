@@ -4,24 +4,24 @@ from tkinter import filedialog
 import os
 
 contador = 0
+#Janela contador de segundos
 def contador_label(lblRotulo):
-   def funcao_contar():
-      global contador
-      contador = contador + 1
-      lblRotulo.config(text=str(contador))
-      lblRotulo.after(1000, funcao_contar)
-   funcao_contar()
+    def funcao_contar():
+        global contador
+        contador += 1
+        lblRotulo.config(text=str(contador))
+        lblRotulo.after(1000, funcao_contar)
+    funcao_contar()
 janela = tk.Tk()
 janela.title("Contagem dos Segundos")
-lblRotulo = tk.Label(janela, fg="green")
+lblRotulo = tk.Label(janela, fg="green", anchor="center", justify='center', font=("Verdana", 30))
 lblRotulo.pack()
 contador_label(lblRotulo)
 btnAcao = tk.Button(janela, text='Clique aqui para Interromper a contagem', height= 20, width=50, command=janela.destroy)
 btnAcao.pack()
 janela.mainloop()
 
-
-
+# Formulário simples com validação
 def submit():
     nome = entry_nome.get() # captura o nome
     idade = entry_idade.get() # captura a idade
@@ -38,61 +38,59 @@ def submit():
 
 
 
-def main():
-    global entry_nome, entry_email, entry_idade # declara as variáveis globais
-    # Cria a janela principal
-    root = tk.Tk() # cria a janela
-    root.title("Aplicativo Tkinter simples") # define o título da janela
-    
-    #cria um frame para organizar os widgets
-    frame = tk.Frame(root) # cria um frame
-    frame.pack(padx=30, pady=30) # adiciona o frame à janela com espaçamento
-    
-    label_nome = tk.Label(root, text="NOME:") # cria um rótulo para o nome
-    label_nome.pack() # adiciona o rótulo à janela
-    
-    entry_nome = tk.Entry(root) # cria um campo de entrada para o nome
-    entry_nome.pack() # adiciona o campo de entrada à janela
-    
-    label_email = tk.Label(root, text="E-MAIL:") # cria um rótulo para o email
-    label_email.pack() # adiciona o rótulo à janela
-    
-    entry_email = tk.Entry(root) # Alterado de idade para email
-    entry_email.pack() 
-    
-    label_idade = tk.Label(root, text="IDADE:") # cria um rótulo para a idade
-    label_idade.pack() # adiciona o rótulo à janela
-    
-    entry_idade = tk.Entry(root) # cria um campo de entrada para a idade
-    entry_idade.pack() # adiciona o campo de entrada à janela
-    
-    button_submit = tk.Button(root, text="ENVIAR", command=submit) 
-    button_submit.pack()
-    
-    root.mainloop()
-    
+# Radio Buttons
+janela = tk.Tk() # cria a janela
+janela.geometry("300x200") # define o tamanho da janela
+v = tk.IntVar()# variável para armazenar o valor selecionado
+tk.Label(janela,text="""Escolha uma linguagem de programação:""",justify = tk.LEFT, padx = 20).pack() #.pack() empacota o widget na janela
+tk.Radiobutton(janela,text="python",padx = 25,variable=v,value=1).pack(anchor=tk.W)#.pack() empacota o widget na janela
+tk.Radiobutton(janela,text="C++",padx = 25,variable=v,value=2).pack(anchor=tk.W)
+janela.mainloop()# inicia o loop principal da janela
 
+# Entry Widget
 def mostrar_nomes():
     print("Nome: %s\nSobrenome: %s" % (e1.get(), e2.get()))
-janela = tk.Tk()
-janela.title("Aplicação GUI com o Widget Entry")
-tk.Label(janela,text="Nome").grid(row=0)
+janela = tk.Tk() # cria a janela
+janela.geometry("300x120") # define o tamanho da janela
+janela.title("Aplicação GUI com o Widget Entry") # define o título da janela
+tk.Label(janela,text="Nome").grid(row=0) # cria um rótulo para o nome
 
 tk.Label(janela,text="Sobrenome").grid(row=1)
 e1 = tk.Entry(janela)
 e2 = tk.Entry(janela)
 e1.grid(row=0, column=1)
 e2.grid(row=1, column=1)
-tk.Button(janela, text='Sair',command=janela.quit).grid(row=3,column=0,sticky=tk.W,pady=4)
+tk.Button(janela, text='Sair',command=janela.destroy).grid(row=3,column=0,sticky=tk.W,pady=4)
 tk.Button(janela, text='Exibir Dados', command=mostrar_nomes).grid(row=3,column=1,sticky=tk.W,pady=4)
 tk.mainloop()
 
-janela = tk.Tk()
-v = tk.IntVar()
-tk.Label(janela,text="""Escolha uma linguagem de programação:""",justify = tk.LEFT, padx = 20).pack()
-tk.Radiobutton(janela,text="python",padx = 25,variable=v,value=1).pack(anchor=tk.W)
-tk.Radiobutton(janela,text="C++",padx = 25,variable=v,value=2).pack(anchor=tk.W)
-janela.mainloop()
+def main():
+    global entry_nome, entry_email, entry_idade # declara as variáveis globais
+    # Cria a janela principal
+    root = tk.Tk() # cria a janela
+    root.title("Aplicativo Tkinter simples") # define o título da janela
+    root.geometry("400x400") # define o tamanho da janela
+    
+    #cria um frame para organizar os widgets
+    frame = tk.Frame(root, padx=20, pady=20) # cria um frame
+    frame.pack(fill='both', expand=True) # adiciona o frame à janela com espaçamento
+    
+    tk.Label(frame, text="NOME:").pack(anchor='w') # cria um rótulo para o nome
+    entry_nome = tk.Entry(frame) # cria um campo de entrada para o nome
+    entry_nome.pack(fill='x', pady=5) # adiciona o campo de entrada à janela com espaçamento
+
+    tk.Label(frame, text="E-MAIL:").pack(anchor='w', pady=(0, 10)) # cria um rótulo para o email
+    entry_email = tk.Entry(frame) # cria um campo de entrada para o email
+    entry_email.pack(fill='x', pady=5) # adiciona o rótulo à janela
+
+    tk.Label(frame, text="IDADE:").pack(anchor='w', pady=(0, 10)) # cria um rótulo para a idade
+    entry_idade = tk.Entry(frame) # cria um campo de entrada para a idade
+    entry_idade.pack(fill='x', pady=5) # adiciona o campo de entrada à janela
+    
+    button_submit = tk.Button(root, text="ENVIAR", command=submit) # cria o botão de envio
+    button_submit.pack(pady=(0, 20)) # adiciona o botão à janela com espaçamento
+    
+    root.mainloop()
     
 if __name__ == "__main__":
     main()
