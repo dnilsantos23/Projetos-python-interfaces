@@ -15,9 +15,6 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
   </a>
 </p>
 
----
-
-### 🤖 Linguagens e Tecnologias
 ### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
