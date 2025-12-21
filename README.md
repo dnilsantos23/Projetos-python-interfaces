@@ -170,3 +170,20 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
   />
 
 </p>
+#a partir daqui
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/dnilsantos23" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp; &nbsp; <a href="https://www.instagram.com/dnil_santos/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp; &nbsp; <a href="https://wa.me/5551997970571" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+
+  <br><br> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnilsantos23&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de dnilsantos23" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnilsantos23&layout=compact&theme=tokyonight&custom_title=Tecnologias" alt="Tecnologias mais usadas por dnilsantos23" />
+
+</div>
