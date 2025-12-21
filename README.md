@@ -1,7 +1,8 @@
 # 👩🏻‍💻 Daniel S. Santos
-**`Desenvolvedor Python/Java/C#/C++`**
+**`Meus projetos`**
 
-Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Ribeirão Preto, no formato EAD. Venho buscando conhecimentos relacionados a tecnologia, com ênfase em Programação desde 2010. Possuo experiência como instrutor de hardware e programação desde 2014, e também desenvolvi a habilidade de traduzir conceitos complexos em soluções práticas. Atualmente focado em Java/Python e na criação de código seguindo Design Patterns.
+Este repositório foi criado para através dele compartilhar projetos desenvolvidos, projetos que foram gerados através de cursos, aulas, e aprendizado. 
+Obrigado pela sua visita, abaixo estão alguns links, sinta-se a vontade para explorar e também se quiser me seguir seja bem vindo ;) 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dnilsantos23" target="_blank">
@@ -14,6 +15,9 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
+  
+* **Segue abaixo alguns perfis e também linguagens que já trabalhei ou tive contato**
+
 
 ### 🤖 Linguagens e Tecnologias
 
