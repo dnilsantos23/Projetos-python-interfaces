@@ -173,7 +173,7 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
 #a partir daqui
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/dnilsantos23" target="_blank">
+  <a href="https://www.linkedin.com/in/dnilsantos23">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp; &nbsp; <a href="https://www.instagram.com/dnil_santos/" target="_blank">
