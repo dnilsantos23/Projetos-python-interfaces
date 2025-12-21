@@ -1,7 +1,5 @@
-# dnilsantos
-Repositório com meus principais projetos com Python, Java, Arduino e C++, entre outros
 # 👩🏻‍💻 Daniel S. Santos
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Python e Java`**
 
 Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Ribeirão Preto, no formato EAD. Venho buscando conhecimentos relacionados a tecnologia, com ênfase em Programação desde 2010. Possuo experiência como instrutor de hardware e programação desde 2014, e tamém desenvolvi a habilidade de traduzir conceitos complexos em soluções práticas. Atualmente focado em Java/Python e na criação de código limpo e eficiente.
 <p align="left">
