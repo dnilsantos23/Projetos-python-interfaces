@@ -33,6 +33,12 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
 
+### 💼 Experiência Profissional
+
+* **Instrutor de Hardware e Programação** – *Nome da Escola 1* (2014 - Atual)
+* **Instrutor de Tecnologia** – *Nome da Escola 2* (Período)
+* **Professor de Informática/Robótica** – *Nome da Escola 3* (Período)
+
 ### 📊 Estatísticas
 
 <p align="left">
