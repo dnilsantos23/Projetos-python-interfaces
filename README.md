@@ -35,20 +35,30 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
 
 ### 💼 Experiência Profissional
 
-* **Instrutor de Informática/Montagem e Configuração** – *Escola Informatize* (2014 - 2015)
+* **Instrutor de Informática/Montagem e Configuração** – *Escola Informatize* (20/10/2014 - 03/12/2015)
   * Instrutor de cursos de informática fundamental (Windows, Word, Excel, PowerPoint), montagem e manutenção de Computadores.
   * Responsável pela administração do servidor local com Windows Server 2003, suporte e treinamento aos colaboradores,
   *  manutenção preventiva e corretiva dos computadores da escola.
 
-* **Instrutor de Tecnologia e Robótica** – *Nome da Escola 2* (Período)
-  * Desenvolvimento de projetos práticos com **Arduino**, sensores e atuadores utilizando linguagem C/C++.
-  * Introdução ao pensamento computacional e eletrônica básica para resolução de problemas.
+* **Instrutor de cursos de desenvolvimento de jogos** – *HappyCode São Leopoldo* (12/11/2019 - 05/11/2020)
+  * Desenvolvimento de jogos com **Java e JavaScript**.
+  * Programação dentro do **Roblox Studio**.
+  * Programação dentro do **Minecraft**.
+  * Programação orientada a eventos com **Alice 3**.
+  * Modelagem com **Blender**.
 
-* **Professor de Informática e Desenvolvimento** – *Nome da Escola 3* (Período)
-  * Treinamento em linguagens de programação (C# e tecnologias Web) e banco de dados.
-  * Orientação de projetos acadêmicos focados em código limpo e eficiência sistêmica.
+* **Instrutor de cursos de informática fundamental** – *Escola Atitude* (04/04/2019 - 10/11/2019)
+  * Ensino de conceitos fundamentais relacionados a informática fundamental(Windows, Word, Excel, PowerPoint).
 
+* **Instrutor de cursos de desenvolvimento de jogos** – *HappyCode São Leopoldo* (23/06/2025 - 19/12/2025)
+  * **Robótica com Arduino**, sensores e atuadores utilizando linguagem *C/C++*.
+  * Lógica e Algoritmos em **Python**.
+  * Desenvolvimento de jogos utilzando **Python e Panda3D**.
+  * Desenvolvimento de aplicativos com **Python e KivyMD**.
+  * Desenvolvimento de games 2D avançado com **Unity e C#**.
+  * Desenvolvimento de Jogos com **Construct 3**
 ---
+
 ### 📊 Estatísticas
 
 <p align="left">
