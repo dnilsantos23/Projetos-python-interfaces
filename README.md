@@ -5,7 +5,7 @@ Este repositório foi criado para através dele compartilhar projetos desenvolvi
 Obrigado pela sua visita, abaixo estão alguns links, sinta-se a vontade para explorar e também se quiser me seguir seja bem vindo ;) 
 * **Segue abaixo alguns perfis e também linguagens que já trabalhei ou tive contato**
 <p align="left">
-  <a href="https://www.linkedin.com/in/dnilsantos23" target="_blank">
+  <a href="https://www.linkedin.com/in/dnilsantos" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/dnil_santos/" target="_blank">
